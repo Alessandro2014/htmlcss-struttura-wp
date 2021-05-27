@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    height: 150px;
+    background-color: #E579E6;
+    margin-bottom: 30px;
+}
+
+section {
+    height: 400px;
+    background-color: #E1D67A;
+    margin-bottom: 30px;
+}
+
+main {
+    height: 700px;
+    background-color: #ABCFE7;
+    margin-bottom: 10px;
+}
+
+footer{
+    height: 70px;
+    background-color: #8801FE;
+}
